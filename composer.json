@@ -1,0 +1,1 @@
+{\n  "name": "mhooimeijer/license-manager",\n  "description": "A simple license manager.",\n  "type": "library",\n  "require": {\n    "php": "^7.2 || ^8.0"\n  },\n  "autoload": {\n    "psr-4": {\n      "LicenseManager\\": "src/"\n    }\n  },\n  "minimum-stability": "stable",\n  "prefer-stable": true\n}
